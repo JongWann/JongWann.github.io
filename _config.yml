@@ -1,9 +1,9 @@
 # Basic
-title: WngLMng's Blog
+title: Wan 的博客
 author: WngLMng
 description: 嗨，我是王立明，一名来自黑龙江省鹤岗市的男生。<br/>现于无线生活（北京），从事互联网开发工作。
 
-url: "https://wnglmng.com"
+url: "https://jongwann.github.io/"
 
 permalink: /:year/:month/:title/
 
@@ -20,7 +20,7 @@ paginate_path: "pages/:num/"
 
 # Social
 social:
-    weibo: sunmoon1993
+    weibo: 无力吐槽的银酱
     github: wnglmng
     gplus: 112547382138552250597
-    mail: wnglmng@gmail.com
+    mail: wanjun94@qq.com
