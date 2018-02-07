@@ -21,6 +21,6 @@ paginate_path: "pages/:num/"
 # Social
 social:
     weibo: 无力吐槽的银酱
-    github: wnglmng
+    github: https://github.com/JongWann
     gplus: 112547382138552250597
     mail: wanjun94@qq.com
