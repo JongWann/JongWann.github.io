@@ -1,8 +1,8 @@
 ---
 layout:         post
 title:          Clander knowledge
-subtitle:        
-card-image:     
+subtitle:       每天一个小知识
+card-image: 
 date:           2018-02-07 19:00:00
 tags:           code
 post-card-type: article
