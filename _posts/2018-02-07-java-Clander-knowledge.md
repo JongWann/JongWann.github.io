@@ -1,9 +1,11 @@
 ---
-layout: post
-title: Clander knowledge
-subtitle: 每天一个小知识
-date: 2018-02-07
-tags: java
+layout:         post
+title:          Clander knowledge
+subtitle:        
+card-image:     
+date:           2018-02-07 19:00:00
+tags:           code
+post-card-type: article
 ---
 
 # 使用Calendar将当前时间加一天或减一天
